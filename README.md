@@ -7,3 +7,9 @@ ls: list directory contents
 pwd: prints working directory
 
 This is a modification to my README file
+Making a second change to my README file
+
+One more change to test w/o notes
+,,,,,
+XXXXX
+Trying the link to TextWrangler one more time... 
