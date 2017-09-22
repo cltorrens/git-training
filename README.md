@@ -5,3 +5,5 @@ This is a demo repo (repository) for a git training workshop 22 Sept 2017
 cd: change directory
 ls: list directory contents
 pwd: prints working directory
+
+This is a modification to my README file
